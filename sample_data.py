@@ -24,3 +24,4 @@ average=total/len(students)
 
 print("Average score:",
 average)
+
