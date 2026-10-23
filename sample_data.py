@@ -12,11 +12,11 @@ students=[
 "score":88}
  ]
  
- print("Sample Student Data")
+print("Sample Student Data")
  
- for student in students:
-     print(student["name"],
-"-", student["score"]}
+for student in students:
+  print(student["name"],
+"-", student["score"])
 
 total=sum(student["score"]
 for student in students)
