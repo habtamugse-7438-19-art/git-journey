@@ -1,4 +1,3 @@
-python
 # Sample Data Script
 # Assignment 1: Git and GitHub
 students=[
