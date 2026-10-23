@@ -11,5 +11,5 @@ students=[
 ]
 print("Sample Student Data")
 for student in students:
-print(student["name"],
+ print(student["name"],
 "-", student["score"])
